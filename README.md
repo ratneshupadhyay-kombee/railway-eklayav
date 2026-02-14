@@ -132,5 +132,3 @@ Update the .env file with the following keys:
 SMS_API_KEY=
 SMS_SENDER_ID=
 SMS_URL=
-
-
